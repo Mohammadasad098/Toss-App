@@ -1,0 +1,9 @@
+.bg{
+    background-image : url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyapBSGHB5c2mI3fuWRuHwTtDYQgT7l63fSw&s);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.red{
+    color: red;
+    font-size: 70px;
+}
