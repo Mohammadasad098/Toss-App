@@ -8,7 +8,6 @@ function toss(btn) {
     if(btn === "head" && mathRandom === 1 || btn === "tail" && mathRandom === 2){
         // console.log("you won the toss");
         h3.innerHTML = "You Won The Toss.";
-        image1.src = 'img3.png'
 
     }else{
         // console.log("you lost the toss");
