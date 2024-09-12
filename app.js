@@ -13,7 +13,6 @@ function toss(btn) {
     }else{
         // console.log("you lost the toss");
         h3.innerHTML = "You Lost The Toss!";
-        image1.src = 'img4.png'
     }
     if(mathRandom === 1){
         image.src = 'img1.png'
